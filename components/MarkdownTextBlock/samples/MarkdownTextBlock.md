@@ -32,3 +32,4 @@ easily while still inheriting the general functionality a control provides. The 
 how a component can use a default style and then get overridden by the end developer.
 
 > [!Sample MarkdownTextBlockCustomSample]
+> [!Sample StreamingSamplePage]
